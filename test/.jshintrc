@@ -18,27 +18,12 @@
   "strict": true,
   "trailing": true,
   "smarttabs": true,
-<<<<<<< HEAD
   "jasmine": true,
   "globals": {
     "angular": false,
     "browser": false,
     "inject": false
-=======
-  "globals": {
-    "after": false,
-    "afterEach": false,
-    "angular": false,
-    "before": false,
-    "beforeEach": false,
-    "browser": false,
-    "describe": false,
-    "expect": false,
-    "inject": false,
-    "it": false,
-    "jasmine": false,
-    "spyOn": false
->>>>>>> 36628840a2231c9f55119f8a35815bce85b2de98
+
   }
 }
 
